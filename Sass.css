@@ -8,3 +8,6 @@ a{
 li{
     font-size: large;
 }
+h1{
+    font-style: oblique; font-family: 'Courier New', Courier, monospace;
+}
